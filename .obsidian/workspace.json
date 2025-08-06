@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "3321f0bba8270141",
+    "type": "split",
+    "children": [
+      {
+        "id": "144c812159f42d37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0edd4dc51aacaccf",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "STEP_BY_STEP.canvas",
+                "viewState": {
+                  "x": -4.254825693767685,
+                  "y": 298.46997359175316,
+                  "zoom": -0.6629324415736249
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "STEP_BY_STEP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1531980482230bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d48d4c6861f2da8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a38a1e46800e5ac7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "121134a7118c049d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "d8688b361430ca39",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78251e6971befd2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2412883e8a622d31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c8a2ec3d0aa5ad9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для README"
+            }
+          },
+          {
+            "id": "d6a81d088c5df117",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из README"
+            }
+          },
+          {
+            "id": "003b2511fac76f7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "ce36e5313ec3e965",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "0edd4dc51aacaccf",
+  "lastOpenFiles": [
+    "README.md",
+    "STEP_BY_STEP.canvas",
+    "_img",
+    "Без названия.md",
+    "in.js"
+  ]
+}
