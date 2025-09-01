@@ -4,24 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "144c812159f42d37",
+        "id": "f3089c345c423054",
         "type": "tabs",
         "children": [
           {
-            "id": "0edd4dc51aacaccf",
+            "id": "d094a7f98582b889",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "STEP_BY_STEP.canvas",
                 "viewState": {
-                  "x": -4.254825693767685,
-                  "y": 298.46997359175316,
+                  "x": -144.9528921445791,
+                  "y": 966.5907822852727,
                   "zoom": -0.6629324415736249
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "STEP_BY_STEP"
+            }
+          },
+          {
+            "id": "da5daec75b32a02b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.9.12"
             }
           }
         ]
@@ -163,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -171,12 +184,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0edd4dc51aacaccf",
+  "active": "d094a7f98582b889",
   "lastOpenFiles": [
-    "README.md",
+    "SIMPLE_MODEL.canvas",
     "STEP_BY_STEP.canvas",
-    "_img",
+    "README.md",
+    "index.js",
     "Без названия.md",
+    "image.png",
+    "_img",
     "in.js"
   ]
 }
